@@ -1,0 +1,8 @@
+[submodule "tuw_geometry"]
+	path = tuw_geometry
+	url = https://github.com/tuw-robotics/tuw_geometry.git
+	branch = kinetic
+[submodule "tuw_rviz"]
+	path = tuw_rviz
+	url = https://github.com/tuw-robotics/tuw_rviz.git
+	branch = master
